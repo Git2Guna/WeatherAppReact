@@ -14,3 +14,27 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# 🌤️ React Weather App
+
+A modern, responsive **Weather Application** built with **React**, **Tailwind CSS**, and the **OpenWeather API**.  
+Clean UI, fast performance, and real-time weather data 🚀
+
+---
+
+## ✨ Features
+- 🔍 Search weather by city
+- 🌡️ Real-time temperature & conditions
+- 💧 Humidity & wind speed
+- 🎨 Glassmorphism UI
+- 📱 Fully responsive design
+
+---
+
+## 🛠️ Tech Stack
+- ⚛️ React (Hooks + Functional Components)
+- 🎨 Tailwind CSS
+- 🌍 OpenWeather API
+- 🔗 Axios
+
